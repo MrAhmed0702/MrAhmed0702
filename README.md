@@ -3,9 +3,7 @@
 
 - 💼 I’m a **MERN Stack Developer** building full-stack web applications
 
-- 🌱 I’m currently learning **DSA and System Design**
-
-- 📫 How to reach me **ahmed.mohmmed51220@gmail.com**
+- 📫 How to reach me **ahmed.mohammed51220@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
